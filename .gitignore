@@ -1,0 +1,6 @@
+.claude/settings.local.json
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.DS_Store
